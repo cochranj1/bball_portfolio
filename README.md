@@ -32,4 +32,5 @@ disproportionately predict star and starter outcomes over rookie contract timeli
 
 ## About
 
-Joe Cochran — Data Scientist with a focus on basketball analytics.
+Joe Cochran — Data Scientist with a focus on basketball analytics, working to move
+the needle on what we know about the game
